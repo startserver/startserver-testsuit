@@ -15,7 +15,7 @@
       'event-simulate': 'gallery/event-simulate/1.0.0/event-simulate'
     }
   });
-  seajs.use(['/tests/index-spec'], function() {
+  seajs.use(['/tests/<#=name#>-spec'], function() {
     mocha.run();
   })
 })();
