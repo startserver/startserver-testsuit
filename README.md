@@ -3,7 +3,7 @@ startserver-testsuit
 
 ## Usage
 
-Add config in your package.json.
+Add config to the `package.json` file in your project.
 
 ```js
 "startserver": [
