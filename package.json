@@ -1,10 +1,7 @@
 {
   "name": "startserver-testsuit",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "uitest plugin for startserver",
-  "bin": {
-    "uitest": "./bin/uitest"
-  },
   "main": "index.js",
   "repository": {
     "type": "git",
