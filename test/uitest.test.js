@@ -13,7 +13,8 @@
 
 'use strict';
 
-var uitest = require('../');
+var uitest = require('..');
 
-describe('test', function(){
+describe('test', function() {
+
 });

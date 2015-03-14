@@ -1,6 +1,6 @@
 {
   "name": "startserver-testsuit",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "uitest plugin for startserver",
   "main": "index.js",
   "repository": {
@@ -15,7 +15,6 @@
   "keywords": ["uitest"],
   "devDependencies": {
     "mocha": "*",
-    "should": "*",
     "istanbul": "*",
     "should": "~4.0.4",
     "should-http": "0.0.2"
